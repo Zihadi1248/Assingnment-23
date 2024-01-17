@@ -1,0 +1,193 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+} 
+body{
+    background-color: rgb(250, 250, 250);
+}
+.temon{
+    height:800px; 
+    background-color: rgb(243, 237, 223);
+}
+
+.logotag{
+    margin-top: 50px;
+    margin-left: 140px;
+    width:80px;
+    height:60px;
+}
+
+.logoone{
+    color:#A3BB48;
+    margin-top:50px;
+    margin-left: 20px;
+}
+
+.logotwo{
+    color:black;
+}
+
+.group{
+    margin-left:80px;
+}
+
+.five{
+    margin-right:140px;
+    margin-top:50px;
+}
+
+.six{
+    margin-top:50px;
+    margin-right:20px;
+}
+
+.seven{
+    margin-top:50px;
+    margin-right:20px;
+}
+
+.eight{
+    margin-top:50px;
+    margin-right:20px;
+}
+
+h1{
+    margin-left:140px;
+    font-size: 80px;
+    font-weight:400;
+    color:#A3BB48;
+}
+.winter{
+    color:black;
+}
+.lorem{
+    margin-left: 140px;
+}
+
+.women{
+    margin-left: 140px;
+    letter-spacing: 5px;
+
+}
+.men{
+    margin-left: 140px;
+    letter-spacing: 5px;
+}
+.my0{
+   background-color:rgb(245, 245, 245);
+}
+
+.my00{
+    background-color:rgb(245, 245, 245);
+ }
+
+
+ .my000{
+    background-color: rgb(245, 245, 245);
+ }
+
+.my1{
+    width: 211px;
+    height:275px;
+}
+.my6{
+    width: 211px;
+    height:275px;
+}
+
+.my11{
+    width: 211px;
+    height:275px;
+}
+
+.jacket1{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; ;
+    background-color: white;
+    width:480px;
+    height:550px;
+    margin-left: 160px;
+}
+
+
+.jacket2{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; ;
+    background-color: white;
+    width:480px;
+    height:550px;
+    margin-left:80px;
+    margin-right:80px;
+}
+
+.jacket3{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; ;
+    background-color: white;
+    width:480px;
+    height:550px;
+    margin-right:160px;
+}
+
+button{
+ background-color: #A3BB48;
+ border-color: #A3BB48;
+}
+
+.shop{
+    width:30px;
+    height:40px;
+}
+
+.buy{
+    color:white;
+}
+
+.fbutton{
+    margin-left: 120px;
+}
+
+.fimage{
+    width:600px;
+    height:355px;
+    margin-top:150px;
+}
+
+.find{
+   width:489px;
+   height:135px;
+   background-color: white;
+   margin-top:110px;
+   margin-left:140px;
+   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; ;
+}
+
+.free{
+    width:489px;
+    height:135px;
+    background-color: white;
+    margin-top:20px;
+    margin-left:140px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; ;
+ }
+ 
+ .Contact{
+    width:489px;
+    height:135px;
+    background-color: white;
+    margin-top:20px;
+    margin-left:140px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; ;
+ }
+ 
+
+.imagef{
+    width:78px;
+    height:82px;
+}
+
+
+@media screen and  (max-width: 576px) {
+    .Group{
+        visibility:hidden;
+    }
+}
+
