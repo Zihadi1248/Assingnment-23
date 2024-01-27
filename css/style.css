@@ -7,12 +7,11 @@ body{
     background-color: rgb(250, 250, 250);
 }
 .temon{
-    height:800px; 
+    height:800px;
     background-color: rgb(243, 237, 223);
 }
 
 .logotag{
-    margin-top: 50px;
     margin-left: 140px;
     width:80px;
     height:60px;
@@ -20,36 +19,14 @@ body{
 
 .logoone{
     color:#A3BB48;
-    margin-top:50px;
-    margin-left: 20px;
 }
 
 .logotwo{
     color:black;
 }
 
-.group{
-    margin-left:80px;
-}
-
 .five{
     margin-right:140px;
-    margin-top:50px;
-}
-
-.six{
-    margin-top:50px;
-    margin-right:20px;
-}
-
-.seven{
-    margin-top:50px;
-    margin-right:20px;
-}
-
-.eight{
-    margin-top:50px;
-    margin-right:20px;
 }
 
 h1{
@@ -186,7 +163,7 @@ button{
 
 
 @media screen and  (max-width: 576px) {
-    .Group{
+    .group{
         visibility:hidden;
     }
 }
